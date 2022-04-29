@@ -30,5 +30,18 @@ body {
     background-color: white;
     box-sizing: border-box;
     border: 1px solid gray;
-    
+}
+.buttons-container {
+    display: flex;
+    justify-content: space-between;
+}
+.control {
+    border-radius: 100px;
+    width: 50px;
+    height: 50px;
+    background-color: #83e22b;
+    color: #e22f2b;
+}
+.blackness {
+    width: 100px;
 }
